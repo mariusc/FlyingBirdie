@@ -1,0 +1,1 @@
+# FlyingBirdieA small Cocos2D game for iOS. Not with profit purpose. The goal is to help the bird fly as far as possible, avoiding baloons. Tap on the screen to make the bird fly higher. Otherwise, it will go down. The game is similar to the Helicopter game.
